@@ -1,1 +1,1 @@
-const rishal = Rishal AU
+const rishal = RishalBalls
